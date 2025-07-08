@@ -1,14 +1,14 @@
 title: Virender Chaudhary's Blog
-tagline: Senior Backend Engineer | .NET | Cloud | Data Pipelines
-description: Personal blog sharing knowledge about backend development, cloud engineering, and software architecture.
+tagline: Senior Software Engineer | Architect |C# | .NET | Cloud | Data Pipelines | Docker | K8 | CICD
+description: Personal blog sharing knowledge about Software development, Cloud engineering, and software architecture.
 url: "https://chaudharyvk.github.io"
 baseurl: ""
 author:
   name: "Virender Chaudhary"
-  email: "virender@example.com"
+  email: "ChaudharyVirender@outlook.com"
   github: chaudharyvk
-  linkedin: virender-chaudhary
-  twitter: chaudhary_vk
+  linkedin:  www.linkedin.com/in/virenderchaudhary
+
 lang: en
 timezone: Europe/Berlin
 
